@@ -31,7 +31,7 @@ gem 'cancan', '~> 1.6'
 gem 'devise', '~> 3.5'
 gem 'haml-rails', '~> 0.9'
 gem 'mongoid', '~> 5.0.pre'
-gem 'omniauth', '~> 1.2'
+gem 'omniauth', '~> 1.9'
 gem 'rails_admin', '~> 0.6'
 gem 'thin', '~> 1.6'
 
