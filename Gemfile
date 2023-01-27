@@ -28,7 +28,7 @@ gem 'jbuilder', '~> 2.0'
 # USER GEMS
 #
 gem 'cancan', '~> 1.6'
-gem 'devise', '~> 3.5'
+gem 'devise', '~> 4.7'
 gem 'haml-rails', '~> 0.9'
 gem 'mongoid', '~> 5.0.pre'
 gem 'omniauth', '~> 1.2'
